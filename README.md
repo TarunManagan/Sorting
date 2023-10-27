@@ -93,7 +93,4 @@ The program provides the user with a menu to choose a sorting algorithm and then
 3.
 ![exp22_3](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/59fe445b-8f40-43ad-ae42-2168ec1b54f0)
 
-4.
-![exp22_4](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/ff5b2ec3-afa2-49a8-b962-586a69dbaf16)
-![exp22_5](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/9b23413b-f53d-4509-9ac0-44e46a111e45)
-![exp22_6](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/0b8be50a-4266-47c0-8b00-8890cb720b64)
+
