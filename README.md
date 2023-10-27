@@ -4,14 +4,11 @@
 
 A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
 
-![image](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/029a073c-9f3a-4d3b-8cb2-573f927a729b)
-
 - **Selection Sort**
 
 In selection sorting technique, the smallest element is fetched by comparing itself with the rest of the elements and sorted at the array's first position. The complete array is divided into two halves, the sorted subarray on the left and the unsorted subarray on the right. Once the first element is sorted, the search for the second minimum element begins from the rest of the array and is positioned at second place.
 
 ![image](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/37f41260-a272-4616-8e96-a39223730def)
-![image](https://github.com/Purvansha022609/Sorting-Algorithm/assets/139473344/6adb5793-3f31-44e8-a317-c2d92bd5f56d)
 
 Similarly, all the elements are positioned on the sorted side of the subarray one after the other, and the complete array becomes a sorted array.
 
